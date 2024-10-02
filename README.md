@@ -1,10 +1,11 @@
 **Table of Contents**
-Installation
-Project Motivation
-File Descriptions
-Results
-Authors and Acknowledgements
+<br>Installation
+<br>Project Motivation
+<br>File Descriptions
+<br>Results
+<br>Authors and Acknowledgements
 
+<br>
 
 **Installation**
 There are no additional libraries needed to run the code here beyond the Anaconda distribution of Python.
